@@ -104,14 +104,6 @@ Le projet contient les éléments suivants :
 - Pictogrammes issus d'une bibliothèque Figma
 - Images placeholder pour les visuels
 
-## Lien Figma
-[Lien vers le projet Figma]
-
-## Guide d'Installation
-1. Ouvrir le fichier .fig dans Figma
-2. Explorer les pages et composants
-3. Consulter le prototype pour comprendre la navigation
-
 ## Notes
 - Les visuels sont en pleine page
 - Le design est responsive (Desktop et Mobile)
